@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;  }
+html,body{width:100%; font-family: "微软雅黑";  background-color: #fff;}       /*加    height:100%*/
+ul {  list-style: none;  }
+dl,dd,ul,li,input,img,td ,button{  border: 0;  }
+a{  text-decoration: none;  }
+a:hover{ color:#fb921b }
+.fl{float:left;}
+.fr{float:right}
+.clear:after{content:"200B";display:block;font-size:0;height:0;clear:both;}
+.clear{clear:both;}
+.container{width:1160px;margin:0 auto}
+.caps{font-variant: small-caps;}
+.textCenter{text-align: center}
+
